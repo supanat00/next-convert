@@ -34,7 +34,7 @@ export default function Header() {
                     </ul>
 
                     <div className="nav__close" id="nav-close">
-                        <i className='bx bx-x'></i>
+                        <i className='bx bx-x'><box-icon name='menu' size='lg'></box-icon></i>
                     </div>
 
                     <Image src="https://res.cloudinary.com/da8eemrq8/image/upload/v1718437346/halloween-asset/nav-img_n2hisg.png" width="500" height="500" alt="" className="nav__img" />
