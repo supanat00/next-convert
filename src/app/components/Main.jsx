@@ -6,6 +6,7 @@ import Swiper, { Pagination } from 'swiper';
 
 export default function Main() {
     useEffect(() => {
+
         /*=============== SHOW MENU ===============*/
         const navMenu = document.getElementById('nav-menu');
         const navToggle = document.getElementById('nav-toggle');
